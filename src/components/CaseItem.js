@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import bike from '../images/bike.png';
+import bike from './images/bike.png';
 
 export const CaseItem = (
     {

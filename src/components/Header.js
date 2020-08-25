@@ -1,5 +1,5 @@
 import React from 'react';
-import LogoApp from '../images/logo-app.png';
+import LogoApp from './images/logo-app.png';
 
 export const Header = () => {
 
