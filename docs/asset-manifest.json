@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.befd6a39.chunk.css",
+    "main.js": "/static/js/main.cffcffa8.chunk.js",
+    "main.js.map": "/static/js/main.cffcffa8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab9ecd31.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab9ecd31.js.map",
+    "static/js/2.bd02f5ec.chunk.js": "/static/js/2.bd02f5ec.chunk.js",
+    "static/js/2.bd02f5ec.chunk.js.map": "/static/js/2.bd02f5ec.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bcbf044ec18b0f735714fa771090bcd3.js": "/precache-manifest.bcbf044ec18b0f735714fa771090bcd3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.befd6a39.chunk.css.map": "/static/css/main.befd6a39.chunk.css.map",
+    "static/js/2.bd02f5ec.chunk.js.LICENSE.txt": "/static/js/2.bd02f5ec.chunk.js.LICENSE.txt",
+    "static/media/bike.png": "/static/media/bike.71bbec9d.png",
+    "static/media/logo-app.png": "/static/media/logo-app.a3f30599.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab9ecd31.js",
+    "static/js/2.bd02f5ec.chunk.js",
+    "static/css/main.befd6a39.chunk.css",
+    "static/js/main.cffcffa8.chunk.js"
+  ]
+}
